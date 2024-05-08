@@ -8,7 +8,7 @@
  - http://localhost:3000/posts
  - http://localhost:3000/comments
  - http://localhost:3000/profile
-6. instalamos en VSCode la extensión Thunder Client for VS Code
+6. Instalamos en VSCode la extensión Thunder Client for VS Code
  
 ![alt text](image.png)
 7. Probamos peticiones de tipo get, post, put, delete
